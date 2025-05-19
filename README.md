@@ -47,10 +47,6 @@ Hey there! I’m a **Physics graduate** who traded equations for code, now craft
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saefulismail01&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saefulismail01&theme=radical&hide_border=true" />
-</p>
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saefulismail01&layout=compact&theme=radical&hide_border=true" />
 </p>
 
