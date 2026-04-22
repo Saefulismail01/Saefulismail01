@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a09,40:422006,100:f59e0b&height=200&section=header&text=Saeful%20Ismail&fontSize=48&fontColor=fffbeb&fontAlignY=36&desc=Quant%20developer%20%E2%80%94%20markets%2C%20data%2C%20systems&descAlignY=54&descSize=17&animation=twinkling" alt="header" width="100%" />
+<h1>Saeful Ismail</h1>
+
+<p><strong>Quant developer</strong> — markets, data, systems</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=820&lines=Quantitative+software+%26+execution;Market+data%2C+signals%2C+and+robust+pipelines;Go+%2B+Python+for+research-to-production;Physics+background%2C+engineering+discipline)](https://github.com/saefulismail01)
 
@@ -93,7 +95,5 @@ I’m a **physics graduate** turned **quant developer**. I build software where 
 > *From differential equations to order books — same habit: model, measure, ship.*
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="coding" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a09,50:78350f,100:fbbf24&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
