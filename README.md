@@ -2,9 +2,10 @@
 
 <h1>Saeful Ismail</h1>
 
-<p><strong>Quant developer</strong> — markets, data, systems</p>
+<p>From nuclear physics to machine learning and backend development.</p>
+<p><strong>Ex-ML Engineer &amp; Data Analyst</strong> | Currently learning Go and systems design</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=820&lines=Quantitative+software+%26+execution;Market+data%2C+signals%2C+and+robust+pipelines;Go+%2B+Python+for+research-to-production;Physics+background%2C+engineering+discipline)](https://github.com/saefulismail01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=820&lines=Nuclear+physics+%E2%86%92+ML+%E2%86%92+backend;Data%2C+models%2C+and+production+pipelines;Leveling+up+Go+%2B+systems+design;Markets%2C+execution%2C+and+robust+systems)](https://github.com/saefulismail01)
 
 <p>
   <a href="https://github.com/saefulismail01"><img src="https://komarev.com/ghpvc/?username=saefulismail01&label=Profile%20views&color=b45309&style=for-the-badge" alt="profile views" /></a>
@@ -25,7 +26,7 @@
 
 **Background**
 
-I’m a **physics graduate** turned **quant developer**. I build software where **data quality, latency, and correctness** matter: market-facing automation, execution-adjacent tooling, and backends that survive real-world noise.
+**Nuclear physics** background, then **ML engineering** and **data analytics**. Now I’m focused on **backend development** and **quant-style market tooling** — systems where **data quality, latency, and correctness** matter — while I **deepen Go and systems design**.
 
 </td>
 <td width="50%" valign="top">
@@ -58,7 +59,7 @@ I’m a **physics graduate** turned **quant developer**. I build software where 
 |--------|-----------|
 | **Quant engineering** | Research workflows, signal and data layers, execution support tooling |
 | **Crypto markets** | Digital-asset strategies and infrastructure — prediction markets, BTC-centric stacks, and on-chain adjacent automation where it helps |
-| **Systems** | Services, storage, and containers — Go for performance-critical paths; Python where iteration and numerics shine |
+| **Systems** | Services, storage, and containers — Python for iteration and numerics; **Go and system design** as the current learning edge |
 
 <p align="center">
   <a href="https://github.com/saefulismail01?tab=repositories"><strong>Browse work on GitHub →</strong></a>
@@ -92,7 +93,7 @@ I’m a **physics graduate** turned **quant developer**. I build software where 
 
 <div align="center">
 
-> *From differential equations to order books — same habit: model, measure, ship.*
+> *Same habit everywhere: define the model, respect the data, ship something reliable.*
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="coding" />
 
