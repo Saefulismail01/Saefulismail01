@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Saeful%20Ismail&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Physics%20%E2%86%92%20Backend%20%E2%86%92%20Cloud&descAlignY=54&descSize=18&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0c4a6e,100:22d3ee&height=200&section=header&text=Saeful%20Ismail&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Quant%20developer%20%E2%80%94%20markets%2C%20data%2C%20systems&descAlignY=54&descSize=17&animation=twinkling" alt="header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Golang+backend+engineer;REST+APIs+%26+clean+architecture;Concurrency+%2B+PostgreSQL+%2B+Docker;Physics+mind%2C+systems+thinking)](https://github.com/saefulismail01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&lines=Quantitative+software+%26+execution;Market+data%2C+signals%2C+and+robust+pipelines;Go+%2B+Python+for+research-to-production;Physics+background%2C+engineering+discipline)](https://github.com/saefulismail01)
 
 <p>
   <a href="https://github.com/saefulismail01"><img src="https://komarev.com/ghpvc/?username=saefulismail01&label=Profile%20views&color=0e7490&style=for-the-badge" alt="profile views" /></a>
   <a href="https://github.com/saefulismail01?tab=repositories"><img src="https://img.shields.io/github/stars/saefulismail01?label=Stars&logo=github&color=164e63&style=for-the-badge" alt="stars" /></a>
   <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 </p>
 
 </div>
@@ -20,18 +21,18 @@
 <tr>
 <td width="50%" valign="top">
 
-**Who I am**
+**Background**
 
-Physics graduate who swapped blackboards for terminals. I design **high-performance backends** in **Go**: scalable APIs, solid data paths, and concurrency done right — from orbital intuition to production traffic.
+I’m a **physics graduate** turned **quant developer**. I build software where **data quality, latency, and correctness** matter: market-facing automation, execution-adjacent tooling, and backends that survive real-world noise.
 
 </td>
 <td width="50%" valign="top">
 
-**What I care about**
+**How I work**
 
-- Robust **REST** services with **PostgreSQL** and clear boundaries  
-- **Goroutines** & performance without sacrificing readability  
-- **Dockerized** workflows and pragmatic testing  
+- Turn messy feeds into **reliable pipelines** and observable systems  
+- Prefer **simple architectures** that are testable and easy to reason about  
+- Care about **concurrency, I/O, and reproducibility** from research to runtime  
 
 </td>
 </tr>
@@ -43,22 +44,22 @@ Physics graduate who swapped blackboards for terminals. I design **high-performa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,postgres,docker,python,git,tensorflow&perline=6&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=go,py,postgres,docker,git,tensorflow&perline=6&theme=dark" alt="skills" />
 
 </div>
 
 ---
 
-## Focus now
+## What I focus on
 
-| Area | What I'm building |
-|------|-------------------|
-| APIs | Scalable REST with Go + PostgreSQL |
-| Runtime | Goroutines, channels, efficient I/O |
-| Quality | Modular layout, tests, maintainable Go |
+| Track | Direction |
+|--------|-----------|
+| **Quant engineering** | Research workflows, signal and data layers, execution support tooling |
+| **Crypto markets** | Digital-asset strategies and infrastructure — prediction markets, BTC-centric stacks, and on-chain adjacent automation where it helps |
+| **Systems** | Services, storage, and containers — Go for performance-critical paths; Python where iteration and numerics shine |
 
 <p align="center">
-  <a href="https://github.com/saefulismail01?tab=repositories"><strong>Explore repositories →</strong></a>
+  <a href="https://github.com/saefulismail01?tab=repositories"><strong>Browse work on GitHub →</strong></a>
 </p>
 
 ---
@@ -89,7 +90,7 @@ Physics graduate who swapped blackboards for terminals. I design **high-performa
 
 <div align="center">
 
-> *From decoding the universe to architecting the cloud — I code, I learn, I build.*
+> *From differential equations to order books — same habit: model, measure, ship.*
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="coding" />
 
